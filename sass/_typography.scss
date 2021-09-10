@@ -1,0 +1,53 @@
+.heading-3 {
+  font-weight: 600;
+  font-size: 4.5rem;
+  line-height: 3.5rem;
+  color: #3f4765;
+  margin-bottom: 2rem;
+}
+
+.p-1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.2rem;
+  line-height: 5.5rem;
+
+  color: #6f758c;
+}
+
+.how-it-work {
+  height: 40rem;
+  display: flex;
+  align-items: center;
+  margin-left: 11rem;
+  font-size: 5rem;
+  font-weight: 400;
+  color: #3f4765;
+  font-style: normal;
+}
+
+// UTILITY
+
+.mb-sm {
+  margin-bottom: 3rem;
+}
+
+.lh {
+  line-height: 1.8;
+}
+
+.pd-1 {
+  padding: 1.5rem !important;
+}
+.pd-2 {
+  padding: 1.5rem !important;
+}
+
+// img {
+//   overflow: hidden;
+//   height: 100%;
+//   width: 100%;
+
+//   object-fit: cover;
+// }
